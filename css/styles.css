@@ -1,0 +1,85 @@
+.welcome{
+    background-image: url(/home/loise/Desktop/moringa-core-interview-projects/delani-studios/images/h_img.jpg);
+    text-align: center;
+    background-size: cover;
+    color: white;
+    padding: 10px;
+    width: auto;
+    height: 600px;
+    font-family:comic sans-serif;
+    font-size: 20px;
+}
+.about{
+    text-align: center;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+}
+.services{
+    text-align: center;
+    background-image: url(/home/loise/Desktop/moringa-core-interview-projects/delani-studios/images/s_image.jpg);
+    color: white;
+    height: 200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+h4{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+col-md-3{
+    margin: 2px;
+    border: 10px;
+}
+.img{
+    width:250px;
+    height: 250px;
+}
+body{
+    font-weight: bolder;
+}
+p{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    background-image: url(/home/loise/Desktop/moringa-core-interview-projects/delani-studios/images/c_image.jpg);
+    color: white;
+}
+input{
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 2px solid white;
+    border-radius: 4px;
+    background-color: transparent;
+}
+::placeholder {
+    color: white;
+    opacity: 1;
+}
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
+.contact{
+    padding: 50px;
+    border: 10px;
+    margin: 5px;
+}
+.news{
+    height: 200px;
+}
+.social{
+    align-content: center;
+    padding-left: 30%;
+}
+P{
+    text-align: center;
+}
+.row{
+align-items: center;
+}
